@@ -33,4 +33,6 @@ progress.onchange = function(){
     ctrlIcon.classList.remove("fa-play");
 }
 
+var exemplo = "variavel pra testar commit";
+
 
