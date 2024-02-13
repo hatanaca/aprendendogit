@@ -37,3 +37,4 @@ var exemplo = "variavel pra testar commit";
 
 
 let outroexemplo = "SE";
+let novo;
